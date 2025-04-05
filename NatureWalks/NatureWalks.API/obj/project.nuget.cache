@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcIIHh74xMM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\NatureWalks.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maham\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\maham\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
