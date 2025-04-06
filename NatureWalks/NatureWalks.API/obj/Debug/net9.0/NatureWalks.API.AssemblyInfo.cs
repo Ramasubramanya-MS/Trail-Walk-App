@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NatureWalks.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+002aea1fa093147916174bdd97637ced738b44f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6ac862c4aa3f536a17aa51e22bca102812915f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("NatureWalks.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NatureWalks.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

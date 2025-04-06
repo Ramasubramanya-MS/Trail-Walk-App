@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\controllers\\difficultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\controllers\\difficultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\models\\dtos\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\models\\dtos\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\models\\dtos\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\models\\dtos\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\models\\dtos\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\models\\dtos\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +43,8 @@
       "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Migrations\\20250405103230_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NatureWalks.API\\Migrations\\20250405103230_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|c:\\users\\maham\\onedrive\\documents\\net projects\\trail-walk-app\\naturewalks\\naturewalks.api\\migrations\\20250405103230_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E129CC0-1A8B-4CE0-943F-363259E2A541}|NatureWalks.API\\NatureWalks.API.csproj|solutionrelative:naturewalks.api\\migrations\\20250405103230_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,28 +66,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\Domain\\Difficulty.cs",
-              "RelativeDocumentMoniker": "NatureWalks.API\\Models\\Domain\\Difficulty.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\Domain\\Difficulty.cs",
-              "RelativeToolTip": "NatureWalks.API\\Models\\Domain\\Difficulty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UpdateRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\DTOs\\UpdateRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NatureWalks.API\\Models\\DTOs\\UpdateRegionRequestDto.cs",
+              "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\DTOs\\UpdateRegionRequestDto.cs",
+              "RelativeToolTip": "NatureWalks.API\\Models\\DTOs\\UpdateRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:25:18.168Z",
+              "WhenOpened": "2025-04-06T08:18:14.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DifficultiesController.cs",
-              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Controllers\\DifficultiesController.cs",
-              "RelativeDocumentMoniker": "NatureWalks.API\\Controllers\\DifficultiesController.cs",
-              "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Controllers\\DifficultiesController.cs",
-              "RelativeToolTip": "NatureWalks.API\\Controllers\\DifficultiesController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NatureWalks.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "NatureWalks.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:20:52.357Z",
+              "WhenOpened": "2025-04-06T07:42:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\DTOs\\RegionDTO.cs",
+              "RelativeDocumentMoniker": "NatureWalks.API\\Models\\DTOs\\RegionDTO.cs",
+              "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\DTOs\\RegionDTO.cs",
+              "RelativeToolTip": "NatureWalks.API\\Models\\DTOs\\RegionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:05:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "NatureWalks.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "NatureWalks.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:04:33.749Z",
               "EditorCaption": ""
             },
             {
@@ -90,14 +124,14 @@
               "RelativeDocumentMoniker": "NatureWalks.API\\Controllers\\RegionsController.cs",
               "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NatureWalks.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAJ8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T11:27:49.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NatureWalks.API\\Controllers\\WeatherForecastController.cs",
@@ -105,12 +139,11 @@
               "RelativeToolTip": "NatureWalks.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:34:10.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T10:34:10.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "20250405103230_Initial Migration.cs",
               "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Migrations\\20250405103230_Initial Migration.cs",
               "RelativeDocumentMoniker": "NatureWalks.API\\Migrations\\20250405103230_Initial Migration.cs",
@@ -118,25 +151,22 @@
               "RelativeToolTip": "NatureWalks.API\\Migrations\\20250405103230_Initial Migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:32:30.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T10:32:30.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "20250405102649_Initial Updated Migration.cs",
               "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs",
               "RelativeDocumentMoniker": "NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs",
               "ToolTip": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs",
               "RelativeToolTip": "NatureWalks.API\\Migrations\\20250405102649_Initial Updated Migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:26:50.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T10:26:50.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Program.cs",
               "RelativeDocumentMoniker": "NatureWalks.API\\Program.cs",
@@ -144,12 +174,11 @@
               "RelativeToolTip": "NatureWalks.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:10:28.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T10:10:28.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\appsettings.json",
               "RelativeDocumentMoniker": "NatureWalks.API\\appsettings.json",
@@ -157,12 +186,11 @@
               "RelativeToolTip": "NatureWalks.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T10:06:22.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T10:06:22.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "WalksDbContext.cs",
               "DocumentMoniker": "C:\\Users\\maham\\OneDrive\\Documents\\NET Projects\\Trail-Walk-App\\NatureWalks\\NatureWalks.API\\Data\\WalksDbContext.cs",
               "RelativeDocumentMoniker": "NatureWalks.API\\Data\\WalksDbContext.cs",
@@ -170,8 +198,7 @@
               "RelativeToolTip": "NatureWalks.API\\Data\\WalksDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA8wBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T10:03:31.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T10:03:31.668Z"
             }
           ]
         }
